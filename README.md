@@ -1,4 +1,4 @@
-# LocalMapReduce
+# LocalMapReduce (google/leveldb/issue/1213)
 
 A simple local MapReduce simulation using Python and **LMDB** for efficient key-value storage.
 
